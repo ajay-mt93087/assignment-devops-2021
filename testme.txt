@@ -1,6 +1,10 @@
 Added Line 1
 Adding Line 2 via dev branch
 Adding line 2 via main
+<<<<<<< HEAD
 Adding line 3
 Adding line 4
 Adding line 5, This will be removed
+=======
+Adding line 3 to remove later
+>>>>>>> parent of 0f7199b (Test Commits)
